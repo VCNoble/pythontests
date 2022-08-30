@@ -25,3 +25,5 @@ jobs:
         env:
           GOOGLE_APIKEY: ${{ secrets.GOOGLE_APIKEY }}
         run: python .github/workflows/example.py
+      - name: Run tests with pytest
+        run: pytest 
