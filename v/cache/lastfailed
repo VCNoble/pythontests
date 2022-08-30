@@ -1,0 +1,11 @@
+{
+  "task3.py": true,
+  "unit_test.py": true,
+  "test_hw.py::hw": true,
+  "test_hw.py::MyTestCase::test_default_greeting_set": true,
+  "test_hw.py::mission::test_default_greeting_set2": true,
+  "test_hw.py::mission::test_default_greeting_set3": true,
+  "test_hw.py::mission::test_default_greeting_set4": true,
+  "test_hw.py::mission::test_default_greeting_set5": true,
+  "test_hw.py::mission::test_default_greeting_set6": true
+}

@@ -1,0 +1,9 @@
+[
+  "test_hw.py::MyTestCase::test_default_greeting_set",
+  "test_hw.py::mission::test_default_greeting_set",
+  "test_hw.py::mission::test_default_greeting_set2",
+  "test_hw.py::mission::test_default_greeting_set3",
+  "test_hw.py::mission::test_default_greeting_set4",
+  "test_hw.py::mission::test_default_greeting_set5",
+  "test_hw.py::mission::test_default_greeting_set6"
+]
