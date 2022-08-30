@@ -25,9 +25,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       - name: Run tests with pytest
-        run: pytest 
-        env:
-          GOOGLE_APIKEY: ${{ secrets.GOOGLE_APIKEY }}
-          run: python .github/workflows/example.py
-
+        run: pytest
+    
      
