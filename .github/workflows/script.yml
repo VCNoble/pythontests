@@ -22,6 +22,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a Python script
+        env:
+          GOOGLE_APIKEY: ${{ secrets.GOOGLE_APIKEY }}
         run: python .github/workflows/example.py
 
      
